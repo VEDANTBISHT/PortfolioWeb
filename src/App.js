@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Sidebar from './Components/sidebar/Sidebar';
-import Home from './components/home/Home';
+import Home from './Components/home/Home';
 import Services from './Components/services/Services';
 import About from './Components/about/About';
 import Resume from './Components/resume/Resume';
