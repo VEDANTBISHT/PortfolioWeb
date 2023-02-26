@@ -54,6 +54,10 @@ const Sidebar = () =>{
                 </div>
             </nav>
 
+            <div className="nav__footer">
+                <span className='copyright'>&copy; By Vedant Bisht</span>
+            </div>
+
 
 
 
