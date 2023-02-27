@@ -5,7 +5,7 @@ const Sidebar = () =>{
     return(
         <aside classname='aside'>
             <a href="#home" classname="nav__logo">
-                <img src={Logo} alt="logo" />
+                <img src={logo} alt="logo" />
             </a>
             <nav className="nav">
                 <div className='nav__menu'>
@@ -55,7 +55,7 @@ const Sidebar = () =>{
             </nav>
 
             <div className="nav__footer">
-                <span className='copyright'>&copy; By Vedant Bisht</span>
+                <span className='copyright'>&copy; Vedant Bisht</span>
             </div>
 
 
