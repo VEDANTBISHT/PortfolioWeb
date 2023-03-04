@@ -1,6 +1,7 @@
 import React from 'react';
 import "./home.css";
-import Me from "..//..//assets/avatar-1.svg";
+// eslint-disable-next-line
+import ME from "..//..//assets/avatar-1.svg";
 const Home = () =>{
     return(
         <section className="home container" id="home">
@@ -15,6 +16,5 @@ const Home = () =>{
         </section>
     )
 }
-
 
 export default Home

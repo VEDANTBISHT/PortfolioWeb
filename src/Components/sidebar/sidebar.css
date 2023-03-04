@@ -26,7 +26,7 @@
 }
 
 .copyright{
-    color:hsl(245, 15%, 65%)
+    color:hsl(245, 15%, 65%);
     font-size: var(--small-font-size);
     transform: rotate(-180deg);
     writing-mode:vertical-rl;
