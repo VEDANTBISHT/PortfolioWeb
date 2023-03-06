@@ -11,6 +11,7 @@ const Home = () =>{
                 <img src="" alt="" className="home__img"/>
                 <h1 className="home_name">Vedant Bisht</h1>
                 <span className="home__education">I' am a Full-Stack-Developer
+                
                 </span>
 
                 <HeaderSocials/>
