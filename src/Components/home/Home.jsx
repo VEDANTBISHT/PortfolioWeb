@@ -8,8 +8,8 @@ const Home = () =>{
             <div className="intro">
                 <img src="" alt="" className="home__img"/>
                 <h1 className="home_name">Vedant Bisht</h1>
-                <span className="home__education">I' am a Full-Stack-Developer</span>
-            
+                <span className="home__education">I' am a Full-Stack-Developer
+                </span>
             </div>
 
 
