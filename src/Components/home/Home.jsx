@@ -1,7 +1,7 @@
 import React from 'react';
 import "./home.css";
 // eslint-disable-next-line
-import ME from "..//..//assets/avatar-1.svg";
+import ME from "./assets/avatar-1.svg";
 import HeaderSocials from './Header.Socials';
 import ScrollDown from './ScrollDown';
 const Home = () =>{
